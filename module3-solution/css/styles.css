@@ -1,0 +1,36 @@
+#nav-list {
+  margin-top: 10px;
+  background-color: lightpink;
+}
+#nav-list a {
+  color: darkblue;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+/* HOME PAGE */
+#main-content {
+  height: 250px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  
+  overflow: hidden;
+}
+
+.jumbotron {
+	background-color: lightgreen;
+	margin: 0 5% 0 5%;
+}
+
+#body-text {
+	font-size: 1.25em;
+
+}
+
+/* END HOME PAGE */
